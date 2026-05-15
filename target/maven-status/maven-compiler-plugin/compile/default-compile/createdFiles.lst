@@ -1,0 +1,6 @@
+cliente\ClienteMain.class
+servidor\ServidorMain.class
+servidor\ManejadorCliente.class
+com\mycompany\redes\REDES.class
+util\Configuracion.class
+cliente\ClienteGUI.class

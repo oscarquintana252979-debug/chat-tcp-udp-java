@@ -1,0 +1,6 @@
+# Archivos compilados de NetBeans y Java
+/build/
+/nbproject/private/
+*.class
+*.jar
+historial_chat.txt
